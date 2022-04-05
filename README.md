@@ -1,2 +1,3 @@
-# chocolate-scraping
-Analyzing chocolate ratings using Beautiful Soup
+# Chocolate Scraping
+
+## Analyzing Chocolate Ratings Using Beautiful Soup - Codecademy Project
